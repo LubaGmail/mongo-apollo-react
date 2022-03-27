@@ -1,0 +1,18 @@
+.App {
+  text-align: center;
+}
+
+.center {
+  margin: auto;
+  width: 80%;
+  border: 1px solid green;
+  padding: 10px;
+}
+
+ul {
+  list-style: none;
+}
+
+table, th, td {
+  border: 1px solid;
+}
